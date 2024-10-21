@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sec9_Assign24_ATMPin", "Sec9_Assign24_ATMPin\Sec9_Assign24_ATMPin.csproj", "{4A3B0FAC-FD63-46E7-A80B-C8BC39FBC561}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibrary1", "ClassLibrary1\ClassLibrary1.csproj", "{CA90CA00-39BC-4931-8EB3-8CA8CF4129C3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4A3B0FAC-FD63-46E7-A80B-C8BC39FBC561}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A3B0FAC-FD63-46E7-A80B-C8BC39FBC561}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A3B0FAC-FD63-46E7-A80B-C8BC39FBC561}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A3B0FAC-FD63-46E7-A80B-C8BC39FBC561}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA90CA00-39BC-4931-8EB3-8CA8CF4129C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA90CA00-39BC-4931-8EB3-8CA8CF4129C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA90CA00-39BC-4931-8EB3-8CA8CF4129C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA90CA00-39BC-4931-8EB3-8CA8CF4129C3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {046CA9DA-D85C-40E1-96B7-733997B37329}
+	EndGlobalSection
+EndGlobal
